@@ -1,12 +1,8 @@
----
-title: About Me
----
-
 # About Me
 
 ## Image
 
-![Headshot of Ethan Nelson](images/headshot.jpeg)
+![Headshot of Ethan Nelson](headshot.jpeg)
 
 ## Introduction
 

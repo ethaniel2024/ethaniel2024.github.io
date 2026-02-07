@@ -1,4 +1,12 @@
+---
+title: About Me
+---
+
 # About Me
+
+## Image
+
+![Headshot of Ethan Nelson](images/headshot.jpeg)
 
 ## Introduction
 
@@ -73,7 +81,3 @@ Relevant coursework includes statistics, data science, and supply chain manageme
 - I enjoy learning how complex systems *actually* work—and helping others understand them better
 
 ---
-
-## Image
-
-![Headshot of Ethan Nelson](images/ENelson Profile Pic.jpeg)

@@ -76,4 +76,4 @@ Relevant coursework includes statistics, data science, and supply chain manageme
 
 ## Image
 
-![Headshot of Ethan Nelson](images/headshot.jpg)
+![Headshot of Ethan Nelson](images/ENelson Profile Pic.jpeg)

@@ -8,6 +8,10 @@
 
 Cinema loves instinct. It glorifies split-second decisions made on feel alone. In *Top Gun: Maverick*, Pete “Maverick” Mitchell tells his cadets, *“Trust your instincts. Don’t think, just do.”*
 
+<p align="center">
+  <img src="Top%20Gun%20Maverick.jpeg" width="600">
+</p>
+
 In a fighter jet, that works.
 
 In data science, I’d like to argue the opposite.
@@ -86,6 +90,10 @@ Both require feel — not just formulas.
 
 Another example comes from supply chain and [Lean manufacturing](https://www.leanproduction.com/).
 
+<p align="center">
+  <img src="Lean%20Manufacturing.png" width="600">
+</p>
+
 Lean focuses on maximizing value by eliminating waste — anything that doesn’t add value to the customer. Many of these principles are closely related to quality improvement methodologies such as [Six Sigma](https://www.sixsigmaonline.org/six-sigma-history/), which emphasize reducing variability and improving process control.
 
 In one case study involving car engine filters, analysts suggested removing a touch point on the filter housing. The model suggested it was unnecessary. Removing it would streamline production.
@@ -106,6 +114,10 @@ Operational reality overruled optimization.
 ## Supply Chain and the “If We Could Have, We Would Have” Principle
 
 Another powerful application of data science in business is supply chain — using data to improve the processes and workflows behind the production and distribution of a product. Professional organizations such as [ASCM (Association for Supply Chain Management)](https://www.ascm.org/) emphasize the importance of integrating analytics with operational context.
+
+<p align="center">
+  <img src="SCM%20BlogPost.jpeg" width="600">
+</p>
 
 In the industry examples I’ve seen, a quiet theme repeats itself:
 
@@ -140,8 +152,6 @@ Optimization without context becomes prescription without understanding.
 ---
 
 ## A Practical Framework for Developing Data Science Feel
-
-![Conceptual diagram showing dataset flowing into a model, producing output, followed by a reality check before decision-making](/assets/images/model-vs-reality.png)
 
 So how do you apply this?
 

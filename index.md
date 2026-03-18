@@ -6,9 +6,23 @@
 
 ## Introduction
 
-I’m a Statistics major at Brigham Young University with an emphasis in data science, focused on applying analytics inside real operational systems rather than isolated technical work. I’m especially interested in how data informs decisions in complex, real-world environments like supply chain and manufacturing.
+I’m a Statistics student at Brigham Young University with a focus on data science, operations, and supply chain systems.
 
-My academic and professional interests sit at the intersection of analytics, operations, and judgment—where statistical thinking supports clarity, tradeoff evaluation, and execution.
+I’m interested in how systems actually function under real-world constraints—and how data can be used to improve decisions within them.
+
+My work sits at the intersection of:
+
+- analytics  
+- operations  
+- and judgment  
+
+Where statistical thinking isn’t just used to analyze outcomes, but to:
+
+- evaluate tradeoffs  
+- clarify decisions  
+- and improve execution in complex environments  
+
+I care about doing things the right way—not just getting the right answer.
 
 ---
 
@@ -16,9 +30,9 @@ My academic and professional interests sit at the intersection of analytics, ope
 
 **Brigham Young University**  
 Bachelor of Science in Statistics (Emphasis in Data Science)  
-Expected Graduation: April 2027
+Expected Graduation: December 2026
 
-Relevant coursework includes statistics, data science, and supply chain management, with a focus on applied decision-making and systems thinking.
+Focused on applying statistical and analytical methods to real-world systems, including operations, supply chains, and organizational decision-making.
 
 ---
 
@@ -26,17 +40,18 @@ Relevant coursework includes statistics, data science, and supply chain manageme
 
 **Supply Chain Intern (Incoming)**  
 *Parker Hannifin* — Summer 2026  
-- Supporting inventory management, supplier coordination, and spend analysis  
-- Building and maintaining operational reports and dashboards in Power BI  
-- Assisting with supplier data management, purchase order review, and process documentation  
+- Supporting inventory management, supplier coordination, and spend analysis within a live operational system
+- Building and maintaining Power BI dashboards to improve visibility into key processes
+- Working with supplier and purchasing data to support day-to-day decision-making and process improvement
 
-**Analytics-Adjacent & Financial Services Roles**  
-- Applied data analysis and reporting to support business and client-facing decisions  
-- Developed an appreciation for analytics that directly informs action rather than abstract analysis  
+**Analytics & Financial Services Experience**  
+- Applied data analysis in high-volume, real-world environments where decisions carry immediate consequences
+- Developed an understanding of how data interacts with risk, incentives, and operational constraints
+- Focused on using analysis to support action—not just explanation
 
 **Academic Projects**  
-- Final project analyzing Parker Hannifin’s supply chain and operational structure  
-- Coursework projects involving statistical modeling, forecasting concepts, and data-driven recommendations  
+- Supply chain analysis of Parker Hannifin, focusing on structure, constraints, and operational tradeoffs
+- Statistical modeling and data analysis projects centered on practical decision-making, not just technical execution
 
 ---
 
@@ -45,7 +60,7 @@ Relevant coursework includes statistics, data science, and supply chain manageme
 **Programming & Data**
 - Python
 - R
-- SQL (basic)
+- SQL (foundational)
 - Statistical modeling and inference
 
 **Analytics & Visualization**
@@ -60,20 +75,20 @@ Relevant coursework includes statistics, data science, and supply chain manageme
 - Process thinking
 - Management communication
 
-**Soft Skills**
-- Leadership
+**Core Strengths**
+- Translating data into decisions
+- Operating under ambiguity and changing conditions
+- Connecting technical analysis to real-world outcomes
 - Cross-functional communication
-- Systems thinking
-- Comfort with ambiguity and uncertainty
 
 ---
 
 ## Get to Know Me
 
-- I’m drawn to roles where data, people, and systems intersect  
-- I value clarity, flexibility, and practical impact over theoretical perfection  
-- Background in leadership and team-based environments  
-- Interested in manufacturing, operations, and continuous improvement  
-- I enjoy learning how complex systems *actually* work—and helping others understand them better
+- I’m drawn to environments where systems are complex and decisions matter
+- I think in terms of constraints, tradeoffs, and incentives
+- I value clarity, adaptability, and practical impact
+- I’m especially interested in manufacturing, operations, and supply chain systems
+- Much of my work explores why some systems—and people within them—perform better than others
 
 ---

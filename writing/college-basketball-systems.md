@@ -267,7 +267,7 @@ Reversion to basketball-first structure aligned with new financial model
 ---
 ## 8. Quantitative Extension: From Concept to Analytical Model
 
-> 🎯 **Goal:** Translate the Big East structural argument into a simple, data-driven framework that demonstrates analytical and decision-making capability.
+> **Goal:** Translate the Big East structural argument into a simple, data-driven framework that demonstrates analytical and decision-making capability.
 
 ---
 

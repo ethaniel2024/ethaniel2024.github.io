@@ -333,3 +333,19 @@ More broadly, these kinds of decisions can be analyzed as resource allocation pr
 That’s the balance.
 
 And it’s not an easy one to strike.
+
+---
+
+## About the Author
+
+I’m an undergraduate at Brigham Young University studying Statistics and Data Science with a focus on systems analysis, operations, and data-driven decision making.
+
+My work sits at the intersection of strategy and analytics, using sports as a case study to model how organizations allocate constrained resources and how those decisions impact performance.
+
+This piece is part of a broader portfolio examining competitive dynamics in college athletics through both qualitative analysis and quantitative modeling.
+
+You can read more here:
+
+- [College Basketball Systems Analysis (Big East)](https://github.com/ethaniel2024/ethaniel2024.github.io/blob/main/writing/college-basketball-systems.md)
+
+Additional projects (including data models and visualizations) are in progress.

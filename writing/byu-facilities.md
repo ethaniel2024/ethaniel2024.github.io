@@ -1,6 +1,6 @@
 # Understanding BYU’s Facilities: The Tradeoff Between Revenue and Atmosphere
 
-![LaVell Edwards Stadium](https://upload.wikimedia.org/wikipedia/commons/7/7c/LaVell_Edwards_Stadium_2012.jpg)
+![LaVell Edwards Stadium](les.jpeg)
 
 I’ve spent a lot of time thinking about BYU athletics lately, and not just in the “did we win or lose” sense. More in the sense of: what are we actually building here? What are the constraints? What’s sustainable? What makes BYU…BYU?
 
@@ -211,7 +211,7 @@ If you were to model this quantitatively, the key variable wouldn’t just be to
 
 ## The Marriott Center: Iconic, but on a Clock
 
-![Marriott Center](https://upload.wikimedia.org/wikipedia/commons/0/0c/Marriott_Center_BYU.jpg)
+![Marriott Center](marriott.jpeg)
 
 Now shift to basketball.
 

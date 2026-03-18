@@ -207,6 +207,10 @@ It’s:
 
 If you were to model this quantitatively, the key variable wouldn’t just be total attendance, but something closer to “engagement density” — the intensity and cohesion of the crowd relative to capacity. That’s the factor that translates directly into home-court advantage and competitive impact, and it’s much harder to scale than raw seat count.
 
+![Engagement Density Model](engagement_density.png)
+
+This simple model illustrates how higher engagement density can generate greater overall impact than larger but less cohesive environments.
+
 ---
 
 ## The Marriott Center: Iconic, but on a Clock

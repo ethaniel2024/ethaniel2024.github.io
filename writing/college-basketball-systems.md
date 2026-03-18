@@ -189,7 +189,7 @@ In a single-elimination format:
 
 ---
 
-## 8. Portfolio-Ready Closing Statement
+## 8. Closing Statement
 
 The Big East’s historical identity as a basketball-centric, urban conference — once seen as a limitation in the football-driven era — has become a structural advantage under modern revenue-sharing constraints.  
 

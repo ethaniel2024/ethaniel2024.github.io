@@ -1,5 +1,7 @@
 # Understanding BYU’s Facilities: The Tradeoff Between Revenue and Atmosphere
 
+![LaVell Edwards Stadium](https://upload.wikimedia.org/wikipedia/commons/7/7c/LaVell_Edwards_Stadium_2012.jpg)
+
 I’ve spent a lot of time thinking about BYU athletics lately, and not just in the “did we win or lose” sense. More in the sense of: what are we actually building here? What are the constraints? What’s sustainable? What makes BYU…BYU?
 
 And the more I’ve thought about it, the more I’ve realized that our biggest challenges right now aren’t about coaching or even recruiting. They’re about infrastructure — specifically, how our facilities fit (or don’t fit) in a modern Power Conference world.
@@ -153,6 +155,8 @@ That’s a big part of why you’re seeing schools explore things like private e
 
 In basketball especially, where marginal talent has an outsized impact, the ability to allocate resources quickly toward players can often matter more than incremental gains in physical capacity.
 
+At the same time, empirical trends in college basketball show that roster continuity and experience are among the strongest predictors of postseason success, with older, more stable teams consistently outperforming high-turnover rosters built around short-term talent acquisition.
+
 ---
 
 ## The Real Tradeoff: Revenue vs. Atmosphere
@@ -206,6 +210,8 @@ If you were to model this quantitatively, the key variable wouldn’t just be to
 ---
 
 ## The Marriott Center: Iconic, but on a Clock
+
+![Marriott Center](https://upload.wikimedia.org/wikipedia/commons/0/0c/Marriott_Center_BYU.jpg)
 
 Now shift to basketball.
 

@@ -1,6 +1,6 @@
 # Understanding BYU’s Facilities: The Tradeoff Between Revenue and Atmosphere
 
-![LaVell Edwards Stadium](les.jpeg)
+![LaVell Edwards Stadium](visuals/les.jpeg)
 
 I’ve spent a lot of time thinking about BYU athletics lately, and not just in the “did we win or lose” sense. More in the sense of: what are we actually building here? What are the constraints? What’s sustainable? What makes BYU…BYU?
 
@@ -207,7 +207,7 @@ It’s:
 
 If you were to model this quantitatively, the key variable wouldn’t just be total attendance, but something closer to “engagement density” — the intensity and cohesion of the crowd relative to capacity. That’s the factor that translates directly into home-court advantage and competitive impact, and it’s much harder to scale than raw seat count.
 
-![Engagement Density Model](engagement_density.png)
+![Engagement Density Model](visuals/engagement_density.png)
 
 This simple model illustrates how higher engagement density can generate greater overall impact than larger but less cohesive environments.
 
@@ -215,7 +215,7 @@ This simple model illustrates how higher engagement density can generate greater
 
 ## The Marriott Center: Iconic, but on a Clock
 
-![Marriott Center](marriott.jpeg)
+![Marriott Center](visuals/marriott.jpeg)
 
 Now shift to basketball.
 
